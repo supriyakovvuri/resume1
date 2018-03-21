@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"b13.jpg",
+    "name":"supriyakovvuri",
+    "email":"supriyasupriya480@gmail.com",
+    "mobile":"9448457125"
+  },
+  "education":[
+    {
+      "course":"B.tech(computer science and engineering)",
+      "college":[
+        "G.pullaiah college of engineering",
+      "2015-2019",
+    "75"
+  ]
+
+},
+{
+  "course":"Intermediate(M.P.C)",
+  "college":[
+    "Narayana junior college",
+  "2013-2015",
+"95"
+]
+},
+{
+  "course":"s.s.c",
+  "college":[
+    "D.A.V high school",
+  "2012-2013",
+"95"
+]
+}
+]
+}
