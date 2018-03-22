@@ -1,6 +1,6 @@
 {
   "basics":{
-    "photo":"b13.jpg",
+    "photo":"s2.jpg",
     "name":"supriyakovvuri",
     "email":"supriyasupriya480@gmail.com",
     "mobile":"9448457125"
@@ -28,8 +28,22 @@
   "college":[
     "D.A.V high school",
   "2012-2013",
-"95"
+"80"
 ]
 }
+],
+"skills":[
+  {
+    "name":"web technologies",
+    "value":"HTML,CSS"
+  },
+  {
+    "name":"operating system ",
+    "value":"Linux,Windows"
+  },
+  {
+    "name":"Programming Languages",
+    "value":"c,c++,java"
+  }
 ]
 }

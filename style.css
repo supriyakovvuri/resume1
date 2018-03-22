@@ -1,6 +1,6 @@
 .main{
   width: 100%;
-  border: 5px solid violet;
+  border: 5px solid black;
   display: flex;
 }
 .left{
@@ -8,20 +8,20 @@
   border: 2px solid #000;
   margin: 5px 3px 1px 10px;
   padding:5px;
-  background-color: green;
+  background-color: lightpurple;
 }
 .left img{
   width:200px;
-   border-radius: 50%;
-   border:3px solid:#fff;
+   border-radius: 60%;
+   border:3px solid black;
    box-shadow: 3px 6px 2px solid:#000;
 }
 .right{
-  width: 25%;
+  width: 65%;
   border: 2px solid #000;
   margin:3px;
   padding: 5px;
-  background-color: red;
+  background-color: lightpurple;
 }
 #name{
   color: #000;
